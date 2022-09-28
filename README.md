@@ -5,7 +5,7 @@ Data, data and, data. Something that can be found everywhere, but what data is, 
 ![Hyperstar](assets/Hyperstar.png)
 
 
-### in this repo you can find the answers to 4 questions
+### in this repo you can find the answers to 3 questions
 
 1. What is the biggest increase rate in sales in different stores on the weekend?
 
@@ -25,3 +25,7 @@ to see how I modeled the sale behavior you can check out this notebook [2.modeli
 
 
 and finally to see the pipeline preparation you can check out this notebook [3 pipeline for preparing data.ipynb](https://github.com/SajjadParizan/Hyper-star-time-series/blob/main/notebooks/3%20pipeline%20for%20preparing%20data.ipynb)
+
+
+
+GOOD LUCK!
