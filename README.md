@@ -24,8 +24,8 @@ to see how I modeled the sale behavior you can check out this notebook [2.modeli
 ![sma](assets/sma.png)
 
 
-and finally to see the pipeline preparation you can check out this notebook [3 pipeline for preparing data.ipynb](https://github.com/SajjadParizan/Hyper-star-time-series/blob/main/notebooks/3%20pipeline%20for%20preparing%20data.ipynb)
+to see the pipeline preparation you can check out this notebook [3 pipeline for preparing data.ipynb](https://github.com/SajjadParizan/Hyper-star-time-series/blob/main/notebooks/3%20pipeline%20for%20preparing%20data.ipynb)
 
-
+and finally, you can check out this notebook to see how I added some additional features like the order of weeks and the order of days in a week [checking data.ipynb](https://github.com/SajjadParizan/Hyper-star-time-series/blob/main/notebooks/checking%20data.ipynb)
 
 GOOD LUCK!
